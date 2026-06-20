@@ -41,8 +41,4 @@ results/   - Analysis outputs
 
 report/    - Documentation and presentation materials
 
-Author
 
-Aakash Reddy
-
-Data Analytics Project
