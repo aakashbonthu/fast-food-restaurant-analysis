@@ -1,0 +1,11 @@
+city,state_name,restaurant_count,population,restaurants_per_100k
+San Francisco,California,3,3417736,0.08777740586165812
+Cape Coral,Florida,1,675797,0.1479734298909288
+Mission Viejo,California,1,647990,0.1543233691877961
+Manhattan,New York,3,1694263,0.17706814113275213
+New York,New York,36,19268388,0.1868345187983551
+Boston,Massachusetts,9,4453352,0.2020949612786054
+Bridgeport,Connecticut,2,945974,0.21142230124718017
+Baltimore,Maryland,6,2201673,0.27252003362897215
+Los Angeles,California,33,11984083,0.27536524905576837
+Allentown,Pennsylvania,2,644758,0.3101939022082704
