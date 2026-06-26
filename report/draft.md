@@ -78,3 +78,20 @@ Top Cities by Restaurant Count
 
 ![Top 10 Cities by Number of Fast Food Restaurants](../charts/question1_top_cities.png)
 
+Question 2: Cities with the Most and Least McDonald's per Capita
+
+Objective
+
+The objective of this analysis is to identify which cities have the highest and lowest concentration of McDonald's restaurants relative to their population size.
+
+Methodology
+
+The dataset was filtered to include only McDonald's locations. The number of McDonald's restaurants in each city was counted and divided by the city's population. The result was converted into the number of McDonald's locations per 100,000 residents to allow fair comparisons between cities of different sizes.
+
+Key Findings
+
+Hamilton, Ohio recorded the highest McDonald's concentration with approximately 7.88 locations per 100,000 residents. Williamsburg, Yakima, Pompano Beach, and Rapid City also ranked among the highest.
+
+Large metropolitan areas such as Boston, San Francisco, New York, and Los Angeles showed the lowest McDonald's concentration per capita. Although these cities contain McDonald's locations, their very large populations reduce the number of restaurants per resident.
+
+The results suggest that smaller and medium-sized cities may have a higher concentration of McDonald's locations relative to their population, while major metropolitan areas tend to have lower per-capita values.
