@@ -1,0 +1,11 @@
+city,province,restaurant_count,state_name,city_ascii,state_id,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id,restaurants_per_10000
+Mount Airy,NC,12,North Carolina,Mount Airy,NC,37171,Surry,36.5083,-80.6155,10633,350.4,shape,False,True,America/New_York,3,27030,1840014430,11.285620238878963
+Newport,KY,15,Kentucky,Newport,KY,21037,Campbell,39.0856,-84.4868,13967,1965.3,shape,False,True,America/New_York,3,41071 41072,1840014261,10.739600486861889
+Covington,LA,9,Louisiana,Covington,LA,22103,St. Tammany,30.481,-90.1122,11658,555.3,shape,False,True,America/Chicago,3,70433,1840015019,7.7200205867215645
+Cleveland,MS,8,Mississippi,Cleveland,MS,28011,Bolivar,33.744,-90.7285,10623,553.1,shape,False,True,America/Chicago,3,38732 38733,1840014748,7.530829332580251
+Glasgow,KY,11,Kentucky,Glasgow,KY,21009,Barren,37.0048,-85.9263,15197,362.8,shape,False,True,America/Chicago,3,42141 42142,1840013268,7.238270711324604
+Carroll,IA,7,Iowa,Carroll,IA,19027,Carroll,42.0699,-94.8646,10208,659.0,shape,False,True,America/Chicago,3,51401,1840000490,6.8573667711598745
+Placerville,CA,7,California,Placerville,CA,6017,El Dorado,38.7308,-120.7979,10762,709.4,shape,False,True,America/Los_Angeles,3,95667,1840020238,6.504367217989222
+Traverse City,MI,10,Michigan,Traverse City,MI,26055,Grand Traverse,44.7546,-85.6038,15593,722.7,shape,False,True,America/Detroit,3,49686 49684,1840003946,6.413134098634003
+Meadville,PA,8,Pennsylvania,Meadville,PA,42039,Crawford,41.6476,-80.1468,12577,1126.2,shape,False,True,America/New_York,3,16335 16388,1840000558,6.360817365031406
+Bloomsburg,PA,8,Pennsylvania,Bloomsburg,PA,42037,Columbia,41.0027,-76.4561,13024,1146.1,shape,False,True,America/New_York,3,17815,1840000811,6.142506142506142
