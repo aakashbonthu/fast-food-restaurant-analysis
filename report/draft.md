@@ -78,7 +78,7 @@ Top Cities by Restaurant Count
 
 ![Top 10 Cities by Number of Fast Food Restaurants](../charts/question1_top_cities.png)
 
-Question 2: Cities with the Most and Least McDonald's per Capita
+## Question 2: Cities with the Most and Least McDonald's per Capita
 
 Objective
 
@@ -95,3 +95,118 @@ Hamilton, Ohio recorded the highest McDonald's concentration with approximately 
 Large metropolitan areas such as Boston, San Francisco, New York, and Los Angeles showed the lowest McDonald's concentration per capita. Although these cities contain McDonald's locations, their very large populations reduce the number of restaurants per resident.
 
 The results suggest that smaller and medium-sized cities may have a higher concentration of McDonald's locations relative to their population, while major metropolitan areas tend to have lower per-capita values.
+
+# Question 3: Fast Food Restaurants Per Capita for All States
+
+### Objective
+
+The objective of this analysis is to compare the number of fast food restaurants across all U.S. states after taking population into account.
+
+### Methodology
+
+The total number of fast food restaurants was calculated for each state. This information was then combined with state population data to calculate the number of restaurants per 100,000 residents. Using a per-capita measure makes it easier to compare states with very different population sizes.
+
+### Key Findings
+
+South Dakota had the highest number of fast food restaurants per 100,000 residents, followed by Kentucky, Wyoming, New Mexico, and Vermont.
+
+On the other hand, New York, New Jersey, California, Massachusetts, and Alaska had the lowest number of restaurants per 100,000 residents.
+
+### Conclusion
+
+Looking at restaurant counts alone does not provide a complete picture. States with smaller populations may have fewer restaurants overall but still have a higher restaurant concentration per resident. Using a per-capita measure gives a fair comparison between all states.
+
+### Visualization
+
+![Top States by Fast Food Restaurants per 100,000 Residents](../charts/question3_top10.png)
+
+---
+
+# Question 4: Fast Food Restaurants with the Most Locations Nationally
+
+### Objective
+
+The objective of this analysis is to identify which fast food chains have the largest number of restaurant locations across the United States.
+
+### Methodology
+
+The restaurant names were grouped together and counted. Before calculating the totals, similar restaurant names such as "McDonalds" and "McDonald's" were combined to avoid counting the same restaurant as two different chains.
+
+### Results
+
+| Restaurant Chain | Number of Locations |
+| ---------------- | ------------------: |
+| McDonald's       |                2082 |
+| Burger King      |                1154 |
+| Taco Bell        |                 873 |
+| Wendy's          |                 731 |
+| Arby's           |                 518 |
+| KFC              |                 421 |
+| Domino's Pizza   |                 345 |
+| Subway           |                 322 |
+| SONIC Drive In   |                 226 |
+| Hardee's         |                 192 |
+
+### Key Findings
+
+McDonald's has the largest number of locations in the dataset by a significant margin. Burger King and Taco Bell also have a strong national presence, followed by Wendy's and Arby's.
+
+The results show that a few major restaurant chains account for a large share of fast food locations across the country.
+
+### Visualization
+
+![Top 10 Fast Food Chains by Number of Locations](../charts/question4_top10.png)
+
+---
+
+# Question 5: Major Cities with the Most and Least Fast Food Restaurants Per Capita
+
+### Objective
+
+The objective of this analysis is to compare major cities based on the number of fast food restaurants available relative to their population.
+
+### Methodology
+
+Only cities with a population of at least 500,000 were included in this analysis. The total number of restaurants in each city was divided by the city's population and converted into restaurants per 100,000 residents.
+
+### Key Findings
+
+Cincinnati had the highest concentration of fast food restaurants among major cities. Albuquerque, Ogden, Oklahoma City, and Columbia also ranked among the highest.
+
+San Francisco had the lowest concentration, followed by Cape Coral, Mission Viejo, New York, and Concord.
+
+These results show that having a large population does not necessarily mean a city has a higher concentration of fast food restaurants.
+
+### Conclusion
+
+Comparing restaurants on a per-capita basis provides a more meaningful comparison than simply looking at the total number of restaurants. It highlights cities where fast food restaurants are more or less common relative to the number of people living there.
+
+### Visualization
+
+![Major Cities by Fast Food Restaurants per 100,000 Residents](../charts/question5_top10.png)
+
+---
+
+# Question 7: States with the Most and Least Fast Food Restaurants Per Capita
+
+### Objective
+
+The objective of this analysis is to identify the states with the highest and lowest concentration of fast food restaurants after adjusting for population.
+
+### Methodology
+
+Restaurant counts for each state were combined with state population data. The number of restaurants per 100,000 residents was then calculated and the states were ranked from highest to lowest.
+
+### Key Findings
+
+South Dakota ranked first with the highest restaurant concentration per capita. Kentucky, Wyoming, New Mexico, and Vermont also had relatively high values.
+
+New York, New Jersey, California, Massachusetts, and Alaska had the lowest restaurant concentration when compared with their populations.
+
+### Conclusion
+
+The analysis shows that population plays an important role when comparing restaurant availability. While larger states often have more restaurants in total, they may have fewer restaurants per resident than smaller states.
+
+### Visualization
+
+![Top States by Fast Food Restaurants per 100,000 Residents](../charts/question7_top10.png)
